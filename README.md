@@ -10,7 +10,7 @@ The dataset used in this analysis contains weekly rankings for movies and TV sho
 
 <h3>Project Highlights:</h3>
 
-_1.Linear Regression Analysis:_ Investigated the correlation between IMDb ratings and total views for titles in the NFLX top 10.
+_<h4> 1. Linear Regression Analysis: </h4>_ Investigated the correlation between IMDb ratings and total views for titles in the NFLX top 10.
 
 _2.Trend Analysis:_ Examined trends in weekly hours viewed over time, identifying factors such as new releases and seasonal patterns.
 
