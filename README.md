@@ -10,10 +10,13 @@ The dataset used in this analysis contains weekly rankings for movies and TV sho
 
 _**Project Highlights:**_
 
-Linear Regression Analysis: Investigated the correlation between IMDb ratings and total views for titles in the NFLX top 10.
-Trend Analysis: Examined trends in weekly hours viewed over time, identifying factors such as new releases and seasonal patterns.
-Outlier Detection: Identified outliers through graph analysis, highlighting shows with extended time in the top 10 despite lower ratings.
-Project Documentation:
+_Linear Regression Analysis:_ Investigated the correlation between IMDb ratings and total views for titles in the NFLX top 10.
+
+_Trend Analysis:_ Examined trends in weekly hours viewed over time, identifying factors such as new releases and seasonal patterns.
+
+_Outlier Detection:_ Identified outliers through graph analysis, highlighting shows with extended time in the top 10 despite lower ratings.
+
+_**Project Documentation:**_
 For detailed analysis findings, please refer to the attached PDF report titled "Netflix Top 10 Data Analysis.pdf". Additionally, the full analysis can be accessed in the Google Sheets document here : [Netflix Top 10 Data Analysis](https://docs.google.com/spreadsheets/d/1N73_VcEyjIql6lJz_CIePIQGxG9Ls-ep/edit#gid=1245800100)
 
 
